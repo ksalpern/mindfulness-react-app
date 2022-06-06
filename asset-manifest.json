@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mindfulness-react-app/static/css/main.38be36b0.css",
+    "main.js": "/mindfulness-react-app/static/js/main.d7e75ef3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mindfulness-react-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pexels-max-mishin-10026140.jpg": "/mindfulness-react-app/static/media/pexels-max-mishin-10026140.ac094d35be56ad5e5755.jpg",
+    "static/media/pexels-kassandra-10442711.jpg": "/mindfulness-react-app/static/media/pexels-kassandra-10442711.6bb458004cbf6a855912.jpg",
+    "static/media/pexels-konstantin-abramov-8906245.jpg": "/mindfulness-react-app/static/media/pexels-konstantin-abramov-8906245.418fa5c0447963a77b1f.jpg",
+    "static/media/rainbow2.jpg": "/mindfulness-react-app/static/media/rainbow2.2486dba4d406bfcbf16b.jpg",
+    "static/media/forest47.jpg": "/mindfulness-react-app/static/media/forest47.ae27acce107b67db7ce1.jpg",
+    "static/media/pexels-max-mishin-10025728.jpg": "/mindfulness-react-app/static/media/pexels-max-mishin-10025728.87ba4de7ce89366bde49.jpg",
+    "static/media/nature2.jpg": "/mindfulness-react-app/static/media/nature2.1e82bebae9f1fc2061e2.jpg",
+    "static/media/nature.jpg": "/mindfulness-react-app/static/media/nature.94e5f103a35baf24b63a.jpg",
+    "static/media/pexels-kirill-lazarev-8288624.jpg": "/mindfulness-react-app/static/media/pexels-kirill-lazarev-8288624.5ea22c55e0ee0eb11e9c.jpg",
+    "static/media/pexels-julia-volk-5769345.jpg": "/mindfulness-react-app/static/media/pexels-julia-volk-5769345.9ceeb11d182ccdeed763.jpg",
+    "static/media/pexels-julia-volk-5769344.jpg": "/mindfulness-react-app/static/media/pexels-julia-volk-5769344.0e847ff10cd28c7a489f.jpg",
+    "static/media/forest29931.jpg": "/mindfulness-react-app/static/media/forest29931.d256f80042351c259ac5.jpg",
+    "static/media/pexels-maria-ovchinnikova-7925654.jpg": "/mindfulness-react-app/static/media/pexels-maria-ovchinnikova-7925654.5236823143b9aca09988.jpg",
+    "static/media/pexels-kirill-lazarev-8288620.jpg": "/mindfulness-react-app/static/media/pexels-kirill-lazarev-8288620.61648867bdd776d51308.jpg",
+    "static/media/nature3.jpg": "/mindfulness-react-app/static/media/nature3.97f98f10fdef55a6e0bd.jpg",
+    "static/media/nature4.jpg": "/mindfulness-react-app/static/media/nature4.e60996516089773b2e21.jpg",
+    "static/media/nature5.jpg": "/mindfulness-react-app/static/media/nature5.1e1bea490a3e5782fbe3.jpg",
+    "index.html": "/mindfulness-react-app/index.html",
+    "main.38be36b0.css.map": "/mindfulness-react-app/static/css/main.38be36b0.css.map",
+    "main.d7e75ef3.js.map": "/mindfulness-react-app/static/js/main.d7e75ef3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mindfulness-react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.d7e75ef3.js"
+  ]
+}
